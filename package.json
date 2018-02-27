@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/entropysw/eci/issues"
   },
-  "homepage": "https://github.com/entropysw/eci#readme"
+  "homepage": "https://github.com/entropysw/eci#readme",
+  "dependencies": {
+    "typescript": "^2.7.2"
+  }
 }
